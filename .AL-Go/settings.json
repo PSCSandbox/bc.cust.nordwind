@@ -1,6 +1,7 @@
 {
-  "country": "us",
+  "country": "de",
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "repoVersion": "26.0"
 }

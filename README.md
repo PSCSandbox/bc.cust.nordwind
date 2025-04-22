@@ -1,11 +1,3 @@
-# AL-Go Per Tenant Extension Template
+# Nordwind AG
 
-This template repository can be used for managing AppSource Apps for Business Central.
-
-Please go to https://aka.ms/AL-Go to learn more.
-
-## Contributing
-
-Please read [this](https://github.com/microsoft/AL-Go/blob/main/Scenarios/Contribute.md) description on how to contribute to AL-Go for GitHub.
-
-We do not accept Pull Requests on the template repository directly.
+Nordwind AG ist ein innovatives Windparkunternehmen mit Sitz in Norddeutschland. Gegründet im Jahr 2010, hat sich das Unternehmen auf die Entwicklung und den Betrieb von Windkraftanlagen spezialisiert, um nachhaltige und erneuerbare Energie zu erzeugen.

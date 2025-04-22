@@ -1,0 +1,36 @@
+{
+  "id": "4fbb969f-76c4-47f8-8a14-a43bb6959e9b",
+  "name": "Nordwind Base",
+  "publisher": "Allgeier Inovar GmbH",
+  "version": "26.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "b8e50e4a-9015-469a-9a32-e8bb02dce115",
+      "name": "Aurelo Energy Park Manager",
+      "publisher": "Allgeier Inovar GmbH",
+      "version": "26.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "26.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 51000,
+      "to": 51100
+    }
+  ],
+  "features": ["NoImplicitWith"],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
