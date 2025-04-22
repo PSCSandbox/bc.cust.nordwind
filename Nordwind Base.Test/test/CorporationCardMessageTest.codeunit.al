@@ -1,4 +1,4 @@
-codeunit 51200 "HelloWorld Test"
+codeunit 51200 "Corporation Card Message Test"
 {
     Subtype = Test;
 
@@ -6,10 +6,10 @@ codeunit 51200 "HelloWorld Test"
     [HandlerFunctions('HelloWorldMessageHandler')]
     procedure TestHelloWorldMessage()
     var
-        CustList: TestPage "Customer List";
+        CorporationCard: TestPage "Corporation Card";
     begin
-        CustList.OpenView();
-        CustList.Close();
+        CorporationCard.OpenNew();
+        CorporationCard.Close();
         if (not MessageDisplayed) then
             ERROR('Message was not displayed!');
     end;
