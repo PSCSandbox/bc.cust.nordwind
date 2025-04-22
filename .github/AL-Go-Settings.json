@@ -1,4 +1,9 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main"
+  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
+  "versioningStrategy": 2,
+  "environments": ["QA_PSCHWAMBORN"],
+  "alDoc": {
+    "continuousDeployment": true
+  }
 }
